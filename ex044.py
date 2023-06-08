@@ -1,0 +1,1 @@
+#Desafio: elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento: à vista dinheiro 10% desc/ à vista no cartão 5%desc, em até 2x no cartão preçõ normal/ 3x ou mais 20% de juros
